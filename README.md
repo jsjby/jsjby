@@ -16,4 +16,3 @@
 
 **哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) <br />
 
-![bilibili主页](https://github.com/jsjby/jsjby_2023/blob/main/images/B%E7%AB%99%E5%AE%A3%E4%BC%A0.png)
