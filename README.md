@@ -8,7 +8,7 @@
 
 :heartbeat: **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
 
-:star: **Bilibili主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
+:revolving_hearts: **Bilibili主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
 
 :two_hearts: **小红书主页：**  &nbsp; [计算机保研信息平台](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)
 
