@@ -6,7 +6,7 @@
 
 :rocket: **计算机保研交流一群：**  &nbsp; 1080150860（近2000人）  &nbsp; &nbsp;二群：731633297
 
- :heartbeat: **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
+:heartbeat: **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
 
 :star: **Bilibili主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
 
