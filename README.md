@@ -1,5 +1,9 @@
 ## 计算机保研信息平台 :speaker: 最新的夏令营和预推免以及名单通知
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/jsjby/count.svg" />
+</p>
+
 :fire: **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main)
 
 :fire: **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying)
