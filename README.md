@@ -22,5 +22,6 @@
 
 :bangbang: **哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) <br />
 
-:bangbang: **夏令营英文口语问答或者雅思1对1:** &nbsp; 微信：Duckie417 <br />
+:bangbang: **夏令营英文口语问答或者雅思1对1:** &nbsp; 联系微信：Duckie417 <br />
 
+:bangbang: **计算机保研项目训练营（深度学习/机器学习项目）:** &nbsp; 联系微信：Jsjby-01 <br />
