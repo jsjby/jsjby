@@ -20,6 +20,8 @@
 
 :heartpulse: **计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2023/blob/main/PDF/23年计算机保研方案.pdf" target="_blank">2023年计算机保研服务介绍</a>
 
+:bangbang: **恭喜23年学院全部上岸！！:** &nbsp; [200多个985录取截图](https://mp.weixin.qq.com/s/jeCpdNB8pRGNWEeiWPE6Tw) <br />
+
 :bangbang: **哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) <br />
 
 :bangbang: **计算机保研项目训练营（深度学习/机器学习项目）:** &nbsp; 联系微信：Jsjby-01 <br />
@@ -27,3 +29,6 @@
 :bangbang: **需要带保研或计算机保研资料联系（咨询计算机保研）:** &nbsp; 联系qq：384510498 <br />
 
 :bangbang: **招聘保研咨询师（23年上岸的保研985的）:** &nbsp; 联系qq：384510498 <br />
+
+
+
