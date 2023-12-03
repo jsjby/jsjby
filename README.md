@@ -24,8 +24,6 @@
 
 :bangbang: **哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) <br />
 
-:bangbang: **计算机保研项目训练营（深度学习/机器学习项目）:** &nbsp; 联系微信：Jsjby-01 <br />
-
 :bangbang: **需要带保研或计算机保研资料联系（咨询计算机保研）:** &nbsp; 联系qq：1585601434 <br />
 
 
