@@ -24,6 +24,7 @@
 
 :bangbang: **需要带保研或计算机保研资料联系（咨询计算机保研）:** &nbsp; 联系qq：1585601434 <br />
 
+![qq群及带保研qq和微信联系方式](https://github.com/jsjby/jsjby/blob/main/logo.png)
 
 
 
