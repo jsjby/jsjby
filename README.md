@@ -10,8 +10,6 @@
 
 :fire: **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
 
-:rocket: **计算机保研交流一群：**  &nbsp; 1080150860（近2300人）  
-
 :heartbeat: **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
 
 :revolving_hearts: **Bilibili主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
