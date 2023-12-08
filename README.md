@@ -4,12 +4,6 @@
   <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
 </p>
 
-:fire: **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main)
-
-:fire: **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying)
-
-:fire: **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
-
 :heartbeat: **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
 
 :revolving_hearts: **Bilibili主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
@@ -29,6 +23,12 @@
 ![qq群及带保研qq和微信联系方式](https://github.com/jsjby/jsjby/blob/main/logo.png)
 
 :heartbeat: **计算机保研简历如何写？：**  &nbsp; [计算机保研简历如何写](https://www.bilibili.com/video/BV1Re411d7u1/?vd_source=7c9ce7d55b7c6574f2790a234db68a8f)
+
+:fire: **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main)
+
+:fire: **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying)
+
+:fire: **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
 
 
 
