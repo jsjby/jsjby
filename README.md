@@ -6,17 +6,18 @@
 
 :bangbang: **New! 2024夏令营通知！:** &nbsp; [2024夏令营通知](https://github.com/jsjby/jsjby_2024) <br />
 
-:bangbang: **恭喜23年学院全部上岸！:** &nbsp; [200多个985录取截图](https://mp.weixin.qq.com/s/jeCpdNB8pRGNWEeiWPE6Tw) <br />
 
 :heartbeat: **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
 
 :revolving_hearts: **哔哩哔哩账号主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
 
-:two_hearts: **小红书主页：**  &nbsp; [计算机保研信息平台](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)
+:two_hearts: **小红书主页：**  &nbsp; [计算机保研](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)
 
 :heartpulse: **计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2023/blob/main/PDF/23年计算机保研方案.pdf" target="_blank">2023年计算机保研服务介绍</a>
 
 :bangbang: **需要带保研或计算机保研资料联系（咨询计算机保研）:** &nbsp; 联系微信：jsjby04 <br />
+
+:bangbang: **恭喜23年学院全部上岸！:** &nbsp; [200多个985录取截图](https://mp.weixin.qq.com/s/jeCpdNB8pRGNWEeiWPE6Tw) <br />
 
 :bangbang: **加入计算机保研QQ群有专业课面试资料（带答案版本））:** &nbsp; 计算机保研交流二群：735406077    <br />
 
