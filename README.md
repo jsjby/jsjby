@@ -13,7 +13,7 @@
 
 :two_hearts: **小红书主页：**  &nbsp; [计算机保研](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)
 
-:heartpulse: **计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2023/blob/main/PDF/23年计算机保研方案.pdf" target="_blank">2023年计算机保研服务介绍</a>
+:heartpulse: **计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2024/blob/main/计算机保研介绍最新版.pdf" target="_blank">2024年计算机保研服务介绍</a>
 
 :bangbang: **需要带保研或计算机保研资料联系（咨询计算机保研）:** &nbsp; 联系微信：jsjby04 <br />
 
