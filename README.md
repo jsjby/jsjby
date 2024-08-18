@@ -21,6 +21,8 @@
 
 :bangbang: **加入计算机保研QQ群有专业课面试资料（带答案版本））:** &nbsp; 计算机保研交流二群：735406077    <br />
 
+:bangbang: **保研QQ群** &nbsp; 能源动力类保研交流群：151217421  &nbsp; 电子通信类保研交流群：553151379   &nbsp; 电子通信类保研交流群：926280979   <br />   
+
 :fire: **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main) &nbsp;  **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying) &nbsp; **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
 
 ![qq群及带保研qq和微信联系方式](https://github.com/jsjby/jsjby/blob/main/logo.png)
