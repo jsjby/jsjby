@@ -26,7 +26,7 @@
 
 :fire: **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main) &nbsp;  **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying) &nbsp; **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
 
-![qq群及带保研qq和微信联系方式](https://github.com/jsjby/jsjby/blob/main/logo.png)
+![qq群及带保研qq和微信联系方式](https://github.com/jsjby/jsjby/blob/main/logo.jpg)
 
 
 
