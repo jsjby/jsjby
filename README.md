@@ -4,8 +4,9 @@
   <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
 </p>
 
-:bangbang: **New! 2024夏令营通知！:** &nbsp; [2024夏令营通知](https://github.com/jsjby/jsjby_2024) <br />
+:bangbang: **New! 2024夏令营通知！:** &nbsp; [2024年计算机类夏令营通知](https://github.com/jsjby/jsjby_2024) <br />
 
+:bangbang: **New! 2024夏令营通知！:** &nbsp; [2024年电子、电气、自动化夏令营通知](https://github.com/jsjby/-summer_camp_2024_ee) <br />
 
 :heartbeat: **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
 
