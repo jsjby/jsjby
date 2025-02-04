@@ -1,6 +1,4 @@
-## 计算机大类（计算机、网安、通信、机械、自动化、电子、电气）保研信息平台 
-
-## :speaker: 最新的夏令营和预推免以及名单通知
+## 保研信息平台 :speaker: 最新的夏令营和预推免以及名单通知
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
@@ -29,6 +27,25 @@
 
 :fire: **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main) &nbsp;  **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying) &nbsp; **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
 
+以下是你的内容，以Markdown格式呈现，并包含对应的链接：
+
+
+### :mortar_board: **涵盖专业方向**
+我们的保研信息和服务涵盖多个学科领域，包括但不限于以下专业：
+
+- **[计算机类](https://github.com/jsjby/2025_jsj/blob/main/README.md)**：计算机科学与技术、软件工程、人工智能等  
+- **[电子信息类](https://github.com/jsjby/2025_dzxx/tree/main)**：电子信息工程、通信工程、集成电路、光电工程等  
+- **[自动化与控制类](https://github.com/jsjby/2025_zdhkz)**：自动化、测控技术与仪器、控制科学与工程等  
+- **[机械工程类](https://github.com/jsjby/jxgc)**：机械工程、车辆工程、工业工程等  
+- **[能源与动力类](https://github.com/jsjby/nydl)**：能源动力工程、核工程与核技术等  
+- **[土木与交通类](https://github.com/jsjby/tmgc)**：土木工程、交通运输工程、建筑学等  
+- **[材料与化工类](https://github.com/jsjby/clhg)**：材料科学与工程、化学工程与工艺等  
+- **[生物与医学工程类](https://github.com/jsjby/swgc)**：生物医学工程、制药工程等  
+- **[经济与金融类](https://github.com/jsjby/jjjr/blob/main/README.md)**：金融学、经济学、国际经济与贸易、财政学、金融工程、保险学、税收学等  
+- **[管理类](https://github.com/jsjby/gll)**：工商管理、市场营销、人力资源管理、会计学、财务管理、审计学、战略管理等  
+- **[公共管理与政策类](https://github.com/jsjby/gll)**：公共管理、行政管理、社会保障、城市管理、公共政策分析等  
+
+🎯 **无论你的专业方向如何，我们都能为你提供针对性的保研信息、经验分享和资源支持，助力你顺利上岸！** 🚀
 
 
 
