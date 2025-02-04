@@ -24,12 +24,9 @@
 - **[夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main)**  
 - **[夏令营入营名单](https://github.com/jsjby/jsjby23_ruying)**  
 - **[夏令营优营名单](https://github.com/jsjby/youying)**  
-
-📌 **关注我们，获取最新保研信息，助力你的保研之路！💪🚀**
-
-
-
-:fire: **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main) &nbsp;  **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying) &nbsp; **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
+- **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main) &nbsp;
+- **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying) &nbsp;
+- **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
 
 
 ### :mortar_board: **涵盖专业方向**
