@@ -27,7 +27,7 @@
 - **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
 
 ### :mortar_board: **涵盖专业方向**
-我们的保研信息和服务涵盖多个学科领域，包括但不限于以下专业：📢 **New! 2025年 夏令营通知** 
+📢 **New! 2025年 夏令营通知** 
 - **[计算机类](https://github.com/jsjby/2025_jsj/blob/main/README.md)**：计算机科学与技术、软件工程、人工智能等  
 - **[电子信息类](https://github.com/jsjby/2025_dzxx/tree/main)**：电子信息工程、通信工程、集成电路、光电工程等  
 - **[自动化与控制类](https://github.com/jsjby/2025_zdhkz)**：自动化、测控技术与仪器、控制科学与工程等  
