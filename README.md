@@ -4,35 +4,36 @@
   <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
 </p>
 
-:bangbang: **New! 2024夏令营通知！:** &nbsp; [2024年计算机类夏令营通知](https://github.com/jsjby/jsjby_2024) <br />
+📢 **官方渠道 | 关注我们，获取最新保研资讯:**  
+- 📡 **微信公众号（4,000+粉丝）：** [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)  
+- 📺 **哔哩哔哩主页（80,000+粉丝）：** [计算机保研](https://space.bilibili.com/258646084?)  
+- 📱 **小红书主页（5,000+粉丝）：** [计算机保研](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)  
+- 📘 **计算机保研服务介绍：** [查看详情](https://github.com/jsjby/jsjby_2024/blob/main/计算机保研介绍最新版.pdf)  
+- 📢 **需要带保研或获取相关资料：**  📩 **微信：Jsjby-02**  
+- 📢 **需要带论文:**  📩 **微信：Jsjby-01**  
+- 📢 **加入计算机保研 QQ 群，获取专业课面试资料（含答案）**  📌 **计算机保研交流二群：735406077**  
 
-:bangbang: **New! 2024夏令营通知！:** &nbsp; [2024年电子、电气、自动化夏令营通知](https://github.com/jsjby/-summer_camp_2024_ee) <br />
+🎉 **恭喜 22年、23年、24年学员全部上岸！**  ✅ **500+ 985 录取截图** 👉 [点击查看](https://mp.weixin.qq.com/s/jeCpdNB8pRGNWEeiWPE6Tw)  
 
-:heartbeat: **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
+## 🎓 **保研信息平台 | 最新夏令营 & 预推免通知** 🔥
+📢 **New! 2024 夏令营通知**  
+- **[2024 计算机类夏令营](https://github.com/jsjby/jsjby_2024)**  
+- **[2024 电子、电气、自动化类夏令营](https://github.com/jsjby/-summer_camp_2024_ee)**
+  
+📢 **23 年夏令营信息回顾**  
+- **[夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main)**  
+- **[夏令营入营名单](https://github.com/jsjby/jsjby23_ruying)**  
+- **[夏令营优营名单](https://github.com/jsjby/youying)**  
 
-:revolving_hearts: **哔哩哔哩账号主页：**  &nbsp; [计算机保研](https://space.bilibili.com/258646084?)
+📌 **关注我们，获取最新保研信息，助力你的保研之路！💪🚀**
 
-:two_hearts: **小红书主页：**  &nbsp; [计算机保研](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)
-
-:heartpulse: **计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2024/blob/main/计算机保研介绍最新版.pdf" target="_blank">2024年计算机保研服务介绍</a>
-
-:bangbang: **需要带保研或计算机相关保研资料联系（咨询计算机、机械、能源、自动化、电信）:** &nbsp; 联系微信：Jsjby-02 <br />
-
-:bangbang: **需要带论文:** &nbsp; 联系微信：Jsjby-01 <br />
-
-:bangbang: **恭喜23年学院全部上岸！:** &nbsp; [200多个985录取截图](https://mp.weixin.qq.com/s/jeCpdNB8pRGNWEeiWPE6Tw) <br />
-
-:bangbang: **加入计算机保研QQ群有专业课面试资料（带答案版本））:** &nbsp; 计算机保研交流二群：735406077    <br />
 
 
 :fire: **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main) &nbsp;  **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying) &nbsp; **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
 
-以下是你的内容，以Markdown格式呈现，并包含对应的链接：
-
 
 ### :mortar_board: **涵盖专业方向**
-我们的保研信息和服务涵盖多个学科领域，包括但不限于以下专业：
-
+我们的保研信息和服务涵盖多个学科领域，包括但不限于以下专业：📢 **New! 2025年 夏令营通知** 
 - **[计算机类](https://github.com/jsjby/2025_jsj/blob/main/README.md)**：计算机科学与技术、软件工程、人工智能等  
 - **[电子信息类](https://github.com/jsjby/2025_dzxx/tree/main)**：电子信息工程、通信工程、集成电路、光电工程等  
 - **[自动化与控制类](https://github.com/jsjby/2025_zdhkz)**：自动化、测控技术与仪器、控制科学与工程等  
