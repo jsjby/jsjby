@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
 </p>
 
-📢 **官方渠道 | 关注我们，获取最新保研资讯:**  
+### 📢 **官方渠道 | 关注我们，获取最新保研资讯:**  
 - 📡 **微信公众号（4,000+粉丝）：** [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)  
 - 📺 **哔哩哔哩主页（80,000+粉丝）：** [计算机保研](https://space.bilibili.com/258646084?)  
 - 📱 **小红书主页（5,000+粉丝）：** [计算机保研](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)  
@@ -16,22 +16,15 @@
 
 🎉 **恭喜 22年、23年、24年学员全部上岸！**  ✅ **500+ 985 录取截图** 👉 [点击查看](https://mp.weixin.qq.com/s/jeCpdNB8pRGNWEeiWPE6Tw)  
 
-## 🎓 **保研信息平台 | 最新夏令营 & 预推免通知** 🔥
+### 🎓 **保研信息平台 | 最新夏令营 & 预推免通知** 🔥
 📢 **New! 2024 夏令营通知**  
 - **[2024 计算机类夏令营](https://github.com/jsjby/jsjby_2024)**  
 - **[2024 电子、电气、自动化类夏令营](https://github.com/jsjby/-summer_camp_2024_ee)**
   
 📢 **23 年夏令营信息回顾**  
-- **[夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main)**  
-- **[夏令营入营名单](https://github.com/jsjby/jsjby23_ruying)**  
-- **[夏令营优营名单](https://github.com/jsjby/youying)**  
 - **23年夏令营通知：**  &nbsp; [夏令营通知](https://github.com/jsjby/jsjby_2023/tree/main) &nbsp;
 - **23年夏令营入营名单：**  &nbsp; [夏令营入营名单](https://github.com/jsjby/jsjby23_ruying) &nbsp;
 - **23年夏令营优营名单：**  &nbsp; [夏令营优营名单](https://github.com/jsjby/youying)
-
-
-![微信图片](https://github.com/jsjby/jsjby/blob/main/logo.jpg?raw=true)
-
 
 ### :mortar_board: **涵盖专业方向**
 我们的保研信息和服务涵盖多个学科领域，包括但不限于以下专业：📢 **New! 2025年 夏令营通知** 
@@ -48,6 +41,8 @@
 - **[公共管理与政策类](https://github.com/jsjby/gll)**：公共管理、行政管理、社会保障、城市管理、公共政策分析等  
 
 🎯 **无论你的专业方向如何，我们都能为你提供针对性的保研信息、经验分享和资源支持，助力你顺利上岸！** 🚀
+
+![微信图片](https://github.com/jsjby/jsjby/blob/main/logo.jpg?raw=true)
 
 
 
