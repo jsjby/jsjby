@@ -49,3 +49,46 @@
 
 
 
+# 部分录取图片展示
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(1).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(2).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(3).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(4).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(5).webp" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(6).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(7).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(8).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(9).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(10).webp" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(11).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(12).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(13).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(14).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(15).webp" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(16).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(17).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(18).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(19).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(20).webp" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(21).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(22).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(23).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(22).webp" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/jsjby/jsjby.github.io/main/image/640%20(22).webp" width="200"></td>
+  </tr>
+</table>
+
+
+
+
