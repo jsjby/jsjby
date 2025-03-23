@@ -32,8 +32,7 @@
 📢 **New! 2025年 夏令营通知** 
 - **[计算机类](https://github.com/jsjby/2025_jsj/blob/main/README.md)**：计算机科学与技术、软件工程、人工智能等  
 - **[电子信息类](https://github.com/jsjby/2025_dzxx/tree/main)**：电子信息工程、通信工程、集成电路、光电工程等  
-- **[自动化与控制类](https://github.com/jsjby/2025_zdhkz)**：自动化、测控技术与仪器、控制科学与工程等  
-- **[机械工程类](https://github.com/jsjby/jxgc)**：机械工程、车辆工程、工业工程等  
+- **[机械自动化类](https://github.com/jsjby/jxgc)**：机械工程、车辆工程、工业工程等  
 - **[能源与动力类](https://github.com/jsjby/nydl)**：能源动力工程、核工程与核技术等  
 
 🎯 **无论你的专业方向如何，我们都能为你提供针对性的保研信息、经验分享和资源支持，助力你顺利上岸！** 🚀
