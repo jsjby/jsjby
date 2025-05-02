@@ -4,6 +4,8 @@
   <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
 </p>
 
+## 关注最新网站，每天更新夏令营通知： https://baoyanxinxi.com
+
 ### 📢 **官方渠道 | 关注我们，获取最新保研资讯:**  
 - 📡 **微信公众号（4,000+粉丝）：** [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)  
 - 📺 **哔哩哔哩主页（80,000+粉丝）：** [计算机保研](https://space.bilibili.com/258646084?)  
