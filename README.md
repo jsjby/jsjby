@@ -8,7 +8,7 @@
 
 ### 📢 **官方渠道 | 关注我们，获取最新保研资讯:**  
 - 📡 **微信公众号（4,000+粉丝）：** [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)  
-- 📺 **哔哩哔哩主页（80,000+粉丝）：** [计算机保研](https://space.bilibili.com/258646084?)  
+- 📺 **哔哩哔哩主页（8,000+粉丝）：** [计算机保研](https://space.bilibili.com/258646084?)  
 - 📱 **小红书主页（5,000+粉丝）：** [计算机保研](https://www.xiaohongshu.com/user/profile/558ce88b874dfa0e75b5d7e5)  
 - 📘 **计算机保研服务介绍：** [查看详情](https://github.com/jsjby/jsjby_2024/blob/main/计算机保研介绍最新版.pdf)  
 - 📢 **需要带保研或获取相关资料：**  📩 **微信：Jsjby02**  
