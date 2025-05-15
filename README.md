@@ -25,8 +25,7 @@
 - **[全学科夏令营通知](https://github.com/jsjby/2025xly)**：全学科夏令营通知
 - **[计算机类](https://github.com/jsjby/2025_jsj/blob/main/README.md)**：计算机科学与技术、软件工程、人工智能等  
 - **[电子信息类](https://github.com/jsjby/2025_dzxx/tree/main)**：电子信息工程、通信工程、集成电路、光电工程等  
-- **[机械自动化类](https://github.com/jsjby/jxgc)**：机械工程、车辆工程、工业工程等  
-- **[能源与动力类](https://github.com/jsjby/nydl)**：能源动力工程、核工程与核技术等  
+- **[机械能源自动化类](https://github.com/jsjby/jxgc)**：机械工程、车辆工程、工业工程、能源动力工程、核工程与核技术等  
 
 
 
